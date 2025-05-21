@@ -1,0 +1,5 @@
+1. java (24)
+2. postgresql (17)
+3. node (v22.15.0)
+4. npm (v11.3.0)
+(npm install takes care of the rest)
