@@ -23,7 +23,7 @@ CREATE TABLE transactions (
 );
 
 -- Prepopulate assets table with 20 cryptocurrencies
-INSERT INTO assets (name) VALUES
+INSERT INTO assets (cname) VALUES
 ('Bitcoin'), ('Ethereum'), ('Tether'), ('XRP'), ('BNB'),
 ('Solana'), ('USD Coin'), ('Dogecoin'), ('Cardano'), ('TRON'),
 ('Chainlink'), ('Avalanche'), ('Shiba Inu'), ('Bitcoin Cash'), ('Toncoin'),
